@@ -1,0 +1,13 @@
+Quantifying Temperature-Driven Electricity Demand and Its Potential Climate Impact Using Machine Learning
+As global temperatures rise, higher cooling demand may increase electricity consumption. This project uses hourly weather and electricity data from Spain to investigate the relationship between temperature and electricity demand using machine learning. We will compare energy-demand predictions with and without environmental variables, then simulate +1°C, +2°C, and +3°C temperature scenarios to estimate changes in electricity demand and, where supported by the generation data, associated CO₂ emissions.
+ 
+Research question:
+- How does temperature affect electricity demand, and how might warmer temperature scenarios influence electricity demand and associated carbon emissions?
+ 
+This project will combine hourly weather data from Spanish cities with hourly Spain-wide electricity data. Machine-learning models will predict total load actual using historical electricity demand, temporal features, and weather variables such as temperature and humidity. Explainability and counterfactual temperature scenarios will then be used to estimate how electricity demand changes as temperatures increase. Finally, the electricity-generation data will be examined to estimate the potential carbon-emission implications of additional demand.
+
+Dataset:
+
+https://huggingface.co/datasets/vitaliy-sharandin/energy-consumption-weather-hourly-spain/viewer/default/train
+
+https://huggingface.co/datasets/vitaliy-sharandin/energy-consumption-hourly-spain
