@@ -281,10 +281,3 @@ The accompanying report contains a fuller literature review, which was written a
 and whose citations are flagged as unverified throughout.
 
 ---
-
-## Author and licence
-
-- Author: [NAME]
-- Course / module: [COURSE CODE AND TITLE]
-- Institution: [INSTITUTION]
-- Licence: [NOT YET CHOSEN]
